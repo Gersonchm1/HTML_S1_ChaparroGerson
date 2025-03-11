@@ -1,0 +1,8 @@
+.img-con{
+    background-image: url("imagenes/img-1.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 250px;
+    color: aqua;
+}
