@@ -6,7 +6,7 @@ En este repositorio se una hoja d evida.
 |--|--|
 | Dia 1 |  .. |
 | Dia 2 |  https://github.com/Gersonchm1/HTML_S1_ChaparroGerson/tree/master/Dia2 |
-| Dia 3 | https://github.com/Gersonchm1/HTML_S1_ChaparroGerson/tree/master/Dia2  |
+| Dia 3 | https://github.com/Gersonchm1/HTML_S1_ChaparroGerson/tree/master/Dia3  |
 
 
 
