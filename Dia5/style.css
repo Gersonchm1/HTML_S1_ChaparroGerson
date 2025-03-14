@@ -1,0 +1,11 @@
+body{
+    background-color: black; 
+}
+.contenedor1{
+display: grid;
+place-items: center
+
+}
+.contenedor2{
+    margin-left: ;
+}
