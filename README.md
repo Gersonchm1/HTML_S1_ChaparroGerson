@@ -9,7 +9,8 @@ En este repositorio se una hoja d evida.
 | Dia 3 |  https://github.com/Gersonchm1/HTML_S1_ChaparroGerson/tree/master/Dia3 |
 | Dia 4 |  https://github.com/Gersonchm1/HTML_S1_ChaparroGerson/tree/master/Dia4
 | Dia 5 |  https://github.com/Gersonchm1/HTML_S1_ChaparroGerson/tree/master/Dia5 |
-| Dia 6 |  https://github.com/Gersonchm1/HTML_S1_ChaparroGerson/tree/master/Dia6 |
+
+| Dia 7 |  https://github.com/Gersonchm1/HTML_S1_ChaparroGerson/tree/master/Dia7 |
 
 
 ### Instalaciones 
@@ -26,4 +27,6 @@ Ingresa a Visual Code y usando la extensión de Live Server para entrar a la pá
 >**Dia 5:** Recreamos una pagina wed
 
 >**Dia 6:** corregimos la paina wed del dia 5
+
+>**Dia7:** recreamos una lataforma de metrolinea .
 
