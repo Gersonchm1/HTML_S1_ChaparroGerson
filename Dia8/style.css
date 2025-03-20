@@ -79,6 +79,12 @@ px;
     background-color:#e67e22 ;
 
 }
+#fondo__main-container4{
+
+    text-align: center;
+    margin: -50px 0px 0px -150px;
+    font-weight: 900;
+    font-family:"letricas1";}
 .btn--black{
     color: white;
 }
@@ -157,4 +163,122 @@ font-weight: 400;
 
 
 }
+.fondo__img-6--titulo{
+    font-size: 68px;
+    font-family: "letricas3";
+    color: white;
+    margin: -0px 0px 0px -400px;
+
+
+}
+.fondo__img-7--texto{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+    
+
+}
+.fondo__img-7{
+    width: 140px;
+    margin: -280px 0px 0px 50px;
+    position: absolute;
+
+}
+.fondo__img-8{ 
+    width: 140px;
+    margin: -615px 0px 0px 750px;
+    position: absolute;
+
+}
+.fondo__img-9{
+    width: 140px;
+    margin: -710px 0px 0px 1400px;
+    position: absolute;
+
+}
+.fondo__img-7--juan{
+    border: 2px solid #e67e22;
+    width: 350px;
+    height: 500px;
+    margin: -800px 0px 0px 40px;
+    border-radius: 3px;
+    
+    
+}
+
+
+.mocha{
+    font-size: 26px;
+    margin: -30px 0px 0px 130px;
+
+}
+.Espresso{
+    font-size: 22px;
+    font-weight: 400;
+    margin: -80px 0px 0px 0px;
+
+}
+.fondo__img-8--texto{
+    border: 2px solid #e67e22;
+    width: 350px;
+    height: 500px;
+    margin: -627px 0px 0px 730px;
+    border-radius: 3px;
+    
+    
+
+}
+.mocha1{
+    font-size: 26px;
+    margin: 100px 0px 0px 130px;
+
+}
+.Espresso1{
+    font-size: 22px;
+    font-weight: 400;
+    margin: -80px 0px 0px -100px;
+    
+
+
+}
+
+#fondo__main-container5{
+    text-align: center;
+    margin: -20px 0px 0px -100px;
+    font-weight: 900;
+    font-family:"letricas1"
+}
+.mocha2{
+    font-size: 26px;
+    margin: 100px 0px 0px 130px;
+
+
+}
+.Espresso2{
+    font-size: 22px;
+    font-weight: 400;
+    margin: -80px 0px 0px -100px;
+
+
+}
+#fondo__main-container6{
+    text-align: center;
+    margin: -20px 0px 0px -100px;
+    font-weight: 900;
+    font-family:"letricas1"
+    
+    
+
+
+    
+}
+.fondo__img-9--texto{
+
+    border: 2px solid #e67e22;
+    width: 350px;
+    height: 500px;
+    margin: -755px 0px 0px 1380px;
+    border-radius: 3px;
+}
+
 
