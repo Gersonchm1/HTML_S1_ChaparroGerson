@@ -1,52 +1,61 @@
 body{
     background-color: black;
 }
-.Inicial{
+.fondoInicial{
     color: azure;
 }
 .Home{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
     font-size: 25px;
 
     
     opacity: 1;
-    font-family: "letrica1";
-    margin:-150px 100px 00px 900px;
+   
+    margin:-180px 100px 00px 900px;
 }
 
 
-.Logo{
-    font-size: 40px;
+.fondo__fondoInicial--Logo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 25px
+px;
     
     
     opacity: 1;
-    font-family: "letrica1";
+
     margin:30px 0px 100px 300px;
 }
-.img-1{
+.fondo__img-1{
     width: 430px;
     margin: -70px 0px 0px 700px;
 
 }
-.Logo{
+.fondo__fondoInicial--Logo{
     font-size:35px ;
 }
-.Start{
-    font-size: 85px;
-    margin: 50px 0px 0px 380px;
+.fondo__fondoInicial--Start{
+    font-family: "letricas3";
+    font-size: 68px;
+    margin: 50px 0px 0px 670px;
 }
-.WITH{
-    font-size: 85px;
-    margin: -100px 0px 0px -350px;
+.fondo__WITH{
+    font-family:"letricas3" ;
+    font-size: 68px;
+    margin: -100px 0px 0px 380px;
 }
-#main-container{
+#fondo__main-container{
 
     text-align: center;
-    margin: -200px 0px 0px 0px;
+    margin: -180px 0px 0px 50px;
+    font-weight: 900;
+    font-family:"letricas1";
 }
 .btn{
     text-decoration:3px ;
     text-decoration: none;
-    padding: 20px 15px;
+    padding: 12px 25px;
     display: inline-block;
     text-shadow: 0 1px 0 rgba( 0 0 20px #fefcc9, 2px -2px 3px #feec85, -4px -4px 5px #ffae34, 5px -10px 6px #ec760c, -5px -12px 8px #cd4606, 0 -15px 20px #973716, 2px -15px 20px #451b0e);
     box-shadow: 0px 1px 0 rgba(0,0,0,0.3);
@@ -65,5 +74,87 @@ body{
 
     
     
+}
+.btn-green:hover{
+    background-color:#e67e22 ;
+
+}
+.btn--black{
+    color: white;
+}
+
+@font-face{
+    font-family: "letricas1";
+    src: url(../Dia8/letras/Barlow-Bold.ttf);
+}
+@font-face{
+    font-family: "letricas2";
+    src: url(../Dia8/letras/open-sauce.one-semibold.ttf);
+}
+@font-face{
+    font-family: "letricas3";
+    src: url(../Dia8/letras/PlayfairDisplay-Black.ttf);
+}
+.fondo__img-2{
+    width: 700px;
+    margin: 0px 0px 0px -50px;
+}
+.fondo__img-2--Titulo{
+    font-size: 68px;
+    font-family: "letricas3";
+    margin: -450px 0px 0px 770px;
+    color: white;
+
+
+}
+.fondo__img-2--raya{
+    margin: -310px 0px 0px 870px;
+    width: 0px;
+    font-weight: 1500;
+
+
+}
+.fondo__img-2--letras{
+font-size: 18px;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+margin: -350px 0px 0px 910px;
+font-weight: 400;
+}
+.fondo__img-3--titulo{
+    font-size: 60px;
+    font-family: "letricas3";
+    margin: -580px 0px 0px -200px;
+    color: white;
+
+}
+.fondo__img-3--texto{
+    font-size: 18px;
+    font-family: "letricas1";
+    color: white;
+    margin: -420px 0px 0px 80px;
+
+
+}
+.fondo_img-3{
+
+    width: 550px;
+    margin: 100px 0px 0px 900px;
+}
+#fondo__main-container2{
+    text-align: center;
+    margin: -100px 0px 0px 470px;
+    font-weight: 900;
+    font-family:"letricas1";
+
+}
+#fondo__main-container3{
+    text-align: center;
+    margin: -380px 0px 0px -1460px;
+    font-weight: 900;
+    font-family:"letricas1";
+
+
+
 }
 
