@@ -280,5 +280,62 @@ font-weight: 400;
     margin: -755px 0px 0px 1380px;
     border-radius: 3px;
 }
+.raya1{
+    width: 600px;
+    height: 3px;
+    position: absolute;
+    margin: 0px 10px 20px 600px;
+    background-color: #ce9e5a;
+    align-items: center;
+    align-content: center;
+        
+}
+.about{
+    font-family: "letricas1";
+    margin: 100px 29px 30px 400px;
+}
+.aus{
+    margin: -60px 29px 30px 490px;
+    color: #ce9e5a
+}
+.tab{
+    margin: -30px 29px 30px 250px;
+}
+.contact{
+    font-family: "letricas1";
+    margin: -210px 29px 30px 680px;
+}
+.cus{
+    margin: -66px 29px 30px 795px;
+    color: #ce9e5a
+}
+.tco{
+    margin: -37px 29px 30px 620px;
+}
+.opening{
+    font-family: "letricas1";
+    margin: -254px 29px 30px 1090px;
+}
+.oho{
+    margin: -60px 29px 30px 1220px;
+    color: #ce9e5a
+}
+.top{
+    margin: -37px 29px 30px 950px;
+}
+.raya3{
+    width: 600px;
+    height: 3px;
+    position: absolute;
+    margin: 0px 10px 20px 600px;
+    background-color: #ce9e5a;
+    align-items: center;
+    align-content: center;
+}
+.copy{
+    font-family: "letricas1";
+    margin: 0px 0px 0px 750px;
+}
+
 
 
