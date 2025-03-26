@@ -25,15 +25,7 @@ Ingresa a Visual Code y usando la extensión de Live Server para entrar a la pá
 
 >**Dia 5:** Recreamos una pagina wed
 
->**Dia 6:** corregimos la pagina wed del dia 5
+>**Dia 6:** corregimos la paina wed del dia 5
 
->**Dia7:** recreamos una lataforma de metrolinea .
-
->**Dia8:** recreamos una lataforma de metrolinea .
-
->**Dia9:** hicimos una pagina wed sobre cafe .
-
->**Dia10:**  correjimos pagina wed con medidas relativas.
-
->**Dia11:** hicimos una pagina wed con gird.
+>**Diam7:** recreamos una lataforma de metrolinea .
 
