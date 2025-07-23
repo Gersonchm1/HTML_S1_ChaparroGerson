@@ -1,39 +1,47 @@
-# Ejercicio html
-En este repositorio se una hoja d evida.
+# 📄 Ejercicio HTML – Hoja de Vida y Prácticas
 
-## Tabla de contenidos
-- | Días| Links  |
-- |--|--|
-- | Dia 1 |  https://github.com/Gersonchm1/HTML_S1_ChaparroGerson/tree/master/Dia1 |
-- | Dia 2 |  https://github.com/Gersonchm1/HTML_S1_ChaparroGerson/tree/master/Dia2 |
-- | Dia 3 |  https://github.com/Gersonchm1/HTML_S1_ChaparroGerson/tree/master/Dia3 |
-- | Dia 4 |  https://github.com/Gersonchm1/HTML_S1_ChaparroGerson/tree/master/Dia4 |
-- | Dia 5 |  https://github.com/Gersonchm1/HTML_S1_ChaparroGerson/tree/master/Dia5 |
-- | Dia 7 |  https://github.com/Gersonchm1/HTML_S1_ChaparroGerson/tree/master/Dia7 |
+En este repositorio se encuentran los ejercicios realizados durante mi proceso de aprendizaje de **HTML**, incluyendo la creación de una **hoja de vida** y otros proyectos web básicos.
 
+---
 
-### Instalaciones 
-Ingresa a Visual Code y usando la extensión de Live Server para entrar a la página.
+## 📑 Tabla de Contenidos
+| Día  | Link al ejercicio |
+|------|-------------------|
+| Día 1 | [Ver Día 1](https://github.com/Gersonchm1/HTML_S1_ChaparroGerson/tree/master/Dia1) |
+| Día 2 | [Ver Día 2](https://github.com/Gersonchm1/HTML_S1_ChaparroGerson/tree/master/Dia2) |
+| Día 3 | [Ver Día 3](https://github.com/Gersonchm1/HTML_S1_ChaparroGerson/tree/master/Dia3) |
+| Día 4 | [Ver Día 4](https://github.com/Gersonchm1/HTML_S1_ChaparroGerson/tree/master/Dia4) |
+| Día 5 | [Ver Día 5](https://github.com/Gersonchm1/HTML_S1_ChaparroGerson/tree/master/Dia5) |
+| Día 7 | [Ver Día 7](https://github.com/Gersonchm1/HTML_S1_ChaparroGerson/tree/master/Dia7) |
 
-### Explicación
+---
 
->**Dia 2:** Se realizo la creación de la hoja de vida en HTML haciendo uso de la modularización del index.html, images y style.css
+## ⚙️ Instalación y Visualización
+Para visualizar los ejercicios:  
+1. Clona este repositorio o descarga los archivos.  
+2. Abre el proyecto en **Visual Studio Code**.  
+3. Usa la extensión **Live Server** para abrir la página en el navegador.
 
->**Dia 3:** Basandose en el mismo formato anterior, se crea la una hoja de vida pero con tablas.
+---
 
->**Dia 4:** hicimos un formulario co nombre apellido genero y poblacion>
+## 📆 Explicación de los Ejercicios
 
->**Dia 5:** Recreamos una pagina wed
+- **Día 2:** Creación de una hoja de vida en HTML utilizando **modularización** con `index.html`, `images/` y `style.css`.  
+- **Día 3:** Creación de una hoja de vida con el uso de **tablas** para organizar la información.  
+- **Día 4:** Creación de un **formulario** con campos como *nombre, apellido, género y población*.  
+- **Día 5:** Recreación de una **página web** inicial con conceptos básicos.  
+- **Día 6:** Corrección y mejora de la página web realizada en el **Día 5**.  
+- **Día 7:** Diseño de una **plataforma inspirada en Metrolínea**.  
+- **Día 8:** Ampliación de la plataforma **Metrolínea** con nuevas secciones.  
+- **Día 9:** Creación de una **página web sobre café**.  
+- **Día 10:** Ajustes de diseño usando **medidas relativas (%, vw, vh, rem)** para mejorar la responsividad.  
+- **Día 11:** Implementación de una **página web con grid layout** para distribuir el contenido de manera moderna y flexible.
 
->**Dia 6:** corregimos la pagina wed del dia 5
+---
 
->**Dia7:** recreamos una lataforma de metrolinea .
+## 🎯 Objetivo
+- Documentar el aprendizaje diario en **HTML**.  
+- Crear diferentes ejercicios aplicando buenas prácticas.  
+- Experimentar con formularios, tablas, layouts y diseño responsivo.
 
->**Dia8:** recreamos una lataforma de metrolinea .
-
->**Dia9:** hicimos una pagina wed sobre cafe .
-
->**Dia10:**  correjimos pagina wed con medidas relativas.
-
->**Dia11:** hicimos una pagina wed con gird.
-
+---
